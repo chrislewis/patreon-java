@@ -28,7 +28,6 @@ Step 2. Use this library
 import com.github.jasminb.jsonapi.JSONAPIDocument;
 import com.patreon.PatreonAPI;
 import com.patreon.PatreonOAuth;
-import com.patreon.PatreonOAuth;
 import com.patreon.resources.User;
 import com.patreon.resources.Pledge;
 
